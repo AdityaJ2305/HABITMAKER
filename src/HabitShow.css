@@ -1,0 +1,33 @@
+.habitList {
+    margin-top: 20px;
+    color: wheat;
+  }
+  
+  .habitList table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  
+  .habitList td {
+    padding: 16px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    font-size: 21px;
+    text-decoration: dotted;
+  }
+  
+  .habitList td {
+    background-color: #2404ef;
+  }
+  
+  .habitList button {
+    padding: 4px 8px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+ 
